@@ -19,6 +19,7 @@ Finalizado em: 17/03/2022
     - SQLite3;
     - Pandera.
 <br>
+
 - Microsoft Power BI;
 - SQLite ODBC Driver.
 
