@@ -30,6 +30,6 @@ Finalizado em: 17/03/2022
 **Saída:**
 - Base de Dados dos Jogos entre 2021 e 2022.
 - Base de Dados dos Jogos que Possuem como Plataforma SOMENTE Xbox One.
-- Base de Dados sem NENHUM valor nulo nos campos.
+- Base de Dados sem valores nulos nos campos.
 
 - Dashboards com Microsoft Power BI das três bases.
